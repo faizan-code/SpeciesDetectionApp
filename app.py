@@ -6,7 +6,7 @@ model = pickle.load(open('E:\\ML_DEPLOYMENT\\project\\deploy-ml-model-flask-mast
 
 app = Flask(__name__)
 
-
+#asf
 
 @app.route('/')
 def man():
